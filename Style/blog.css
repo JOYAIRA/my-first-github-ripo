@@ -1,0 +1,11 @@
+div{
+    color: black; background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.div-color{
+    background-color: plum;
+}
+.div-last-color{
+    background-color: rgb(239, 186, 89);
+}
